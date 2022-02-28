@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals in behalfe of the poore of this nation. With some briefe considerations propounded to the Honourable Parliament of the Commonwealth of England, now sitting at Westminster.</title>
+            <author>J. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92171</idno>
+            <idno type="STC">Wing R29</idno>
+            <idno type="STC">Thomason E708_12</idno>
+            <idno type="STC">ESTC R207157</idno>
+            <idno type="EEBO-CITATION">99866227</idno>
+            <idno type="PROQUEST">99866227</idno>
+            <idno type="VID">118492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118492)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E708[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals in behalfe of the poore of this nation. With some briefe considerations propounded to the Honourable Parliament of the Commonwealth of England, now sitting at Westminster.</title>
+                  <author>J. R.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: J.R.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug 2 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb n="1" facs="tcp:118492:1" rendition="simple:additions"/>
+            <head>
+               <hi>PROPOSALS in behalfe of the Poore of this NATION.</hi> With ſome briefe
+Conſiderations propounded to the Ho<g ref="char:EOLhyphen"/>nourable Parliament of the Commonwealth of <hi>England,</hi>
+now ſitting at <hi>Weſtminſter.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>Leſſed is he that conſidereth the poor and needy</hi> Pſal. 41.1. <hi>The merciful
+ſhall find mercy,</hi> Mat. 5. <hi>He ſhall have judgement without mercy that ſheweth
+none,</hi> Jam. 2.13. <hi>He that oppreſſeth the poor reproacheth his maker; but he that
+honoureth him, hath mercy on the poor,</hi> Prov. 14.31. <hi>The poor you ſhall have alwaies with
+you. Hide not thy ſelfe from thine own fleſh,</hi> Iſa. 58.7.</p>
+            <p>To give flattering Titles is contrary to that of <hi>Elihu, Job</hi> 32.21. Yet give honor to
+whom honor is due <hi>Rom.</hi> 13.7. <hi>They that rule well are worthy of double honor,</hi> To
+be ſubject to powers, and pray for them in Authority, is the duty of the people protect<g ref="char:EOLhyphen"/>ed by
+them, 1 <hi>Tim.</hi> 2.2. Seeing it hath pleaſed him who is higher then the higheſt; to change
+the Governours of this Nation four times in leſſe then ſixty years, 1 Queen
+<hi>Elizabeth,</hi> 2. King <hi>James,</hi> 3. late King <hi>Charles.</hi> 4. The late Parliament.
+The 5. now entred. Which by the bleſſing of him that ruleth the Nations, may proceed to the
+eſtabliſhing of righteouſ<g ref="char:EOLhyphen"/>neſſe, and judgement (having the eies of the former to ſee
+withall, and their ſhoulders to ſtand upon, may ſee further) it would be a reproach if they
+ſhould not: It appears by their late Declaration, their fight is more like the Eagle, and
+ſoa<g ref="char:EOLhyphen"/>reth higher towards the new <hi>Jeruſalem</hi> (in expreſſions.) To
+<pb n="2" facs="tcp:118492:2"/>
+               <hi>whom much is given, much is required.</hi> There are two baskets of Figs ſpoken of by
+<hi>Jeremiah, Jer.</hi> 24.3. one very good, the o<g ref="char:EOLhyphen"/>ther very ill (ſo it is expected from this
+Commonwealth) the Harveſt is nigh ripe, the Lord of the Vineyard will come, and will not tarry,
+to take an account of the talents he hath given forth. Let it not be offenſive, he that hath but
+one ta<g ref="char:EOLhyphen"/>lent, doe with the widow, who had but one mite, caſt it into the treaſury (that it may
+be improved) theſe are times of Pro<g ref="char:EOLhyphen"/>poſals; let one take place for the poor, the rather
+becauſe <hi>Wealth maketh many friends, but the poor is ſeparated from his neighbour,</hi>
+Prov. 19.4 Oppreſſion of the poore, is a crying ſin in holy Writ all along, the Lord will
+ariſe for it, <hi>Pſal.</hi> 12.5. So is neglect of the poore, it was one of the ſins of
+<hi>Sodom, Ezek.</hi> 16.49. to multiply places, were not ſuitable to thoſe who are wiſe to
+underſtand theſe things already; a word is enough to the wiſe, howſoever it may be uſeful
+to mind them as <hi>Peter</hi> did, 2 <hi>Pet.</hi> 1.13.</p>
+            <p>It was the honor of <hi>Iſrael</hi> there was no beggar in it, it ſeems not many Harlots,
+the hire thereof was abominable; the number of Theeves, and Cheaters did not ſo abound as in this
+Nation (with grief it may be ſaid) to the ſhame of it; the ground of theſe would be inquired
+into. A little view in<g ref="char:EOLhyphen"/>to <hi>Salomons</hi> Proverbs will unmaske the fruits of idleneſſe and
+evill company, <hi>Prov.</hi> 1.10. <hi>Prov.</hi> 2.10. It is ſuſpected theſe times hath a
+generation of people make much gaine of them (as Harlots in <hi>Salomons</hi> time did) it is to be
+feared the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with the adjacent parts have
+juſtifi<g ref="char:EOLhyphen"/>ed <hi>Ieruſalem,</hi> as it did <hi>Sodom,</hi> the iniquity of it was pride,
+fulneſſe of bread, idleneſſe, neglect of the poore; two of the foure have relation to the
+poor. Theſe Cities are lifted up to heaven with <hi>Corazin</hi> and <hi>Bethſaida</hi> in the
+means of the light of the Goſpell (pray it be not brought down to hell.) The poor of this Nation
+are of ſeverall ſorts. The firſt ſuch as are
+<pb n="3" facs="tcp:118492:2"/>
+Beggars borne, and ſo live and dye, never labouring in any calling elſe. A godly Miniſter
+once ſaid (Dr. <hi>Siba</hi> by name) of them, marryed under hedges, children born in Barns and
+under hedges, there bapti<g ref="char:EOLhyphen"/>zed, ſo continue to the ſhame of the Nation, and of the Goſpel. The
+ſecond ſort are Vagabonds, and counterfeit Rogues; ſome diſſem<g ref="char:EOLhyphen"/>bling lame, ſome one
+diſeaſe, or ſoar, ſome another: Will not be cu<g ref="char:EOLhyphen"/>red if they might; if any Officer come, they
+can run, or by a Coach ſide to beg, what their converſation is when they meet together, by
+drunkenneſſe and ſwearing, hath vexed many a godly ſoule paſſing by them (as
+<hi>Lot</hi> was) the patience of God is to be admired that they are not ſwallowed up with
+<hi>Korah</hi> and his company. Theſe are ſuch <hi>Job</hi> ſpeaks of, viler then the earth
+in his account, <hi>Job.</hi> 30.8. Theſe ſhould be provided for by imployment, it is not
+ſufficient to paſſe them from place to place, and correct them as the law requireth (this
+were cru<g ref="char:EOLhyphen"/>elty) unleſſe imployment be provided for them, if they wil not work, then let a rod be
+for the fools back. There are a third ſort, that labor and get a little mony, then will be drunk,
+raile, and quarrel one with another, pawn their cloaths to vex one another by law, and when all is
+gone, burthen the place where they live; Their manner of reven<g ref="char:EOLhyphen"/>ging one upon another, was formerly
+by reſting with Marſhals men, and ſetting Parators on their backs, for words; theſe Courts
+being downe, they reſt one another with Bailiffs (a Bill of Mid<g ref="char:EOLhyphen"/>dleſex, which is one of the
+grievances of the Commonwealth) with writs of the like kind, it is expected the Regulators of the
+Law will mend ſuch abuſes (if it hinder not their Mill from grinding.) Ano<g ref="char:EOLhyphen"/>ther way theſe
+unquiet poor puniſh one another, they (trouble Con<g ref="char:EOLhyphen"/>ſtables, diſquiet their neighbors that
+would live quietly) run to a Ju<g ref="char:EOLhyphen"/>ſtice for a Warrant, there is one ſhilling gone, bind one
+another over to the Seſſions, there 2<abbr>s.</abbr> 4<abbr>d.</abbr> a peece, when they have
+drunk themſelves friends, withdraw their Recognizance, then as much more to be paid, ſometimes
+committed to priſon, and a Seſſions buſineſſe is made of it; and their Neighbours
+muſt hinder their buſineſſe, to attend to give e<g ref="char:EOLhyphen"/>vidence (then more Fees to be paid) and
+all for railing and fighting when drunk. (Never look for amendment, ſo long as ſo many
+Offi<g ref="char:EOLhyphen"/>cers gain by it, dangerous to name them;) how can theſe people be but poor, where they are
+permitted ſuch pleadings, fitter to be rebu<g ref="char:EOLhyphen"/>ked and ſent home to their labour. (But how ſhall
+ſo many Officers live then?) Is there never a wiſe man in a Pariſh to order ſuch people?
+<pb n="4" facs="tcp:118492:3"/>
+time was, when Certificates from honeſt Neighbours would have duckt them, without traverſing
+(that is coſtly) time hath been, a whole ſtreet of filthy ſuſpicious houſes, hath been
+removed by a Certificate of honeſt Neighbours; now they ſwarme, none dare meddle with them, if
+they have but mony, or a companion that is crafty, and well acquainted with ſome unworthy
+Soliciter of the Law, a whole Pa<g ref="char:EOLhyphen"/>riſh ſhall be vexed from Court to Court by the worſt of
+people, ſuch as are not worthy to ſit with the dogs of the flock, as <hi>Job</hi> ſaith,
+<hi>Job</hi> 30.1. (as before; theſe make worke, and bring gaine to many, little hope of
+amendment ſo long.) If any Neighbor reprove them he is revi<g ref="char:EOLhyphen"/>led, or reſted if he can take hold
+of any word, ſcold and provoke them on purpoſe ſometimes. Theſe are but the gleanings of
+the abuſes of the skirts of theſe Cities (which are like the common-ſhoare) it is hoped to be
+better in the Country) one poor man to oppreſſe another is like a ſweeping raine.
+<hi>Jer.</hi> 5.4. The ſin of the poor and fooliſh is a crying ſin, as well as the rich.
+Theſe have grieved many a righteous ſoule, whoſe eyes have ſeen it, and ears have heard
+it.</p>
+            <p>But to come to the oppreſſion of thoſe that bear the burthen of the Nation by their
+induſtry, and labour, the bleſſing of the Almighty being with them, the laborious Husbandman,
+the Handicrafts-man, and all kind of honeſt Tradeſmen, who would be glad to live quiet<g ref="char:EOLhyphen"/>ly, but
+many times diſturbed by unquiet Neighbors, and proling Of<g ref="char:EOLhyphen"/>ficers, The corrupt Courtier, with his
+Purveyor, and Harbinger, the Prelates with their Courts and Parators, their perjured Articlers, the
+Star-Chamber, with the like, Court of Requeſt, Marſhal Court with their Crew; <hi>Yorke</hi>
+and <hi>Ludlow,</hi> with their perjured informers and all the rabble; all theſe are (by the
+mercy of God) ſpewed out of the Land; it were well ſome of the old Brood were not remaining
+ſtill to bring ſacks to Mill, to the Chequer and Seſſions, and other Courts, dangerous to
+be named, theſe are the taile of the Beaſt, and ſting the poor labouring man (the name of K.
+is down but the Game remains ſtil.)</p>
+            <p>An Exciſe-man is added to a Cuſtomer (but their honeſty is not to be queſtioned, their
+fat and wel-liking, clears them all) if well con<g ref="char:EOLhyphen"/>ſidered by that time every Officer hath his
+ſhare, it is doubted little comes to the Treaſury.</p>
+            <p>There is another ſecret worme, like the Ivy windes about the body of the Oake, and feeds with
+the Viper upon the Bowels of the
+<pb n="5" facs="tcp:118492:3"/>
+body politique, ſecretly many times conſumes a man, his name not known to the party conſumed,
+(if he be) the Statute beares him out, no remedy to be had (though unjuſtly undone;) the upper
+part of the body he dares not meddle with, they are too great; the lower part have nothing to feed
+upon. Will you know their names, they are called amongſt ſome of their friends, ſuch as bring
+work to many Officers; but by the common people Pro<g ref="char:EOLhyphen"/>moters (nay Knaves, what not.) Some will ſay
+a Commonwealth cannot be without them. Muſt evill men be tollerated, nay, re<g ref="char:EOLhyphen"/>warded, by a Statute
+to take oaths? right or wrong, his oath muſt ſtand. By the mouth of two or three witneſſes
+all things ought to be confirmed, but reward them, and give them halfe the Fine impoſed upon any
+man by a corrupt Statute made in the times of Tyranny, and Popery. Compare the time they were made
+in, and the preſent; then conſider the equity of them (with the Maſſe Book, much at one)
+and ſo intermingled one with another, it requires a Councel at Law to finde which are repealed,
+which not.</p>
+            <p>It is hoped they that ſit at the Stern will bluſh for time to come to get any Treaſure by
+ſuch waies, either to the Chequer, or any other Office: but theſe Informers have a way to
+couſen them, and the people both (ſo long as the Statute ſtands unrepealed) com<g ref="char:EOLhyphen"/>pound with
+people, borrow money of them quarterly; no man almoſt deals in any thing, but comes under ſome
+Statute, a Hus<g ref="char:EOLhyphen"/>band-man if he breed not ſo many Calves, many waies more; Handicrafts men, Market
+people, Shop-keepers, one old worm-eaten Statute will take hold of them, revived by <hi>Jack</hi>
+and his Mate, they goe by twoes, the Informer and his Pettifogger, all are kind to them, as to the
+Parators, formerly (as they) ſo theſe awe a whole Country, the worſt people comply with them:
+Now and then an Ignoramus or a man out of honeſty, will not feed them, then <hi>ſub-penae</hi>
+him into ſome Office; if fined then halfe is the Informers (this is to hire men to goe to hell)
+to do evill that good may come of it. Wherefore are the Clerks of Markets, Of<g ref="char:EOLhyphen"/>ficers in every
+Corporation, to looke to diſorders? Muſt there needs be an unclean ſpirit to vex all the
+reſt, and to bring treaſure to the coffers.</p>
+            <p>It were happy if thoſe that have power would conſider the cuſto<g ref="char:EOLhyphen"/>mary
+<pb n="6" facs="tcp:118492:4"/>
+taking of Oaths in this Nation, that they may not be ſo fre<g ref="char:EOLhyphen"/>quently urged upon perſons,
+uncapable by their ignorance or pro<g ref="char:EOLhyphen"/>phannes; can it be ſuppoſed he makes ſcruple of
+kiſſing a book, who takes the name of God in vain ordinarily, and ſwears to get mo<g ref="char:EOLhyphen"/>ny? Doe
+theſe men ever puniſh Swearers, Drunkards or any o<g ref="char:EOLhyphen"/>thers, where there is to them no reward?
+theſe are to ungodly men ſnares, experience tels; <hi>Ahab</hi> and <hi>Jezabell</hi> hire
+ſons of <hi>Beliall</hi> to take <hi>Naboths</hi> Vineyard, the Jews did the like out of malice
+to Chriſt. An oath is a ſerious thing, to call God to witneſſe, and to call a curſe upon
+himſelfe, it ought to be in truth, in righte<g ref="char:EOLhyphen"/>ouſneſſe and judgement, <hi>Jer.</hi> 4.2. A
+gift blindeth the wiſe, much more the fooliſh and ungodly, when given by a Law, Conſider what
+they are, for the moſt part, idle fellows that go up and down, eate and drink of other mens
+coſt, who feed them for fear, not for love (would be glad they were rid of them;) It were well
+the givers of oathes, and takers would conſider the flying Role in <hi>Ze<g ref="char:EOLhyphen"/>chariah</hi> againſt
+Swearers and Stealers, <hi>Zech.</hi> 5.3.</p>
+            <p>There is another oppreſſion of poor Handicrafts men, Engliſh and ſtrangers, ſince the
+late Parliaments diſſolving, hotly followed by Informers, ſet on by ſome Monopolizing
+Companies, who to keep all Trade in their owne hand, cannot be contented with their Priviledge of
+the City, but in former time got Patents by friends and mony, extending ſome miles from the City
+to bring all men of the ſame Craft under their juriſdiction, and pay to their Hals, though they
+dwell out of their Liberties: ſome Companies ſuffer no man to be a Maſter, though a better
+Workman then them<g ref="char:EOLhyphen"/>ſelves, but whom they pleaſe; under pretence of ſeeing no bad Ware made;
+but never look after any thing but for their Quarte<g ref="char:EOLhyphen"/>ridge to feaſt themſelves withall. It were
+conſiderable to cauſe their ſeverall Pattents to be brought to the view, that they might not
+tyranniſe over their Brethren by their unknown laws.</p>
+            <p>They are very hot in perſecuting of many Alien friends, who have lived many years, married
+Engliſhwomen, Children borne here, paid all taxes all the time of the late War here.
+Proteſtants in times of trouble in <hi>Germany</hi> neceſſitated to travell: Now moſt
+unnaturally they muſt be gone, or be their Servants; what ſhall their wives and children doe?
+Ingenious men, no exception, but an old Statute, it is conſiderable what is ſaid in the 7th.
+part of <hi>Cooks</hi>
+               <pb n="7" facs="tcp:118492:4"/>
+Reports, in <hi>Calvins</hi> caſe of Aliens, leaf 4. and 7. and what is ſaid in holy Writ
+touching oppreſſing Strangers, <hi>Exod.</hi> 23.9. <hi>Levit.</hi> 19.23. <hi>Deut.</hi> 24
+17. and 28. <hi>Matth.</hi> 7. Do as ye would be done unto: It is ſuppoſed the Laws of this
+Nation, are not like the Decrees of the <hi>Medes</hi> and <hi>Perſians</hi> unalterable. Neither
+ſo perfect as that per<g ref="char:EOLhyphen"/>fect law of liberty <hi>James</hi> ſpeakes of: But oppreſſing of
+ſtrangers is a crying ſin, ranked with Fatherleſſe Children, and Widowes, ſhedding of
+innocent blood and Idolatry, <hi>Jer.</hi> 7.6. would they that are ſo envious would conſider
+what they doe, charity ſaith they do it ignorantly, not knowing what they doe.</p>
+            <p>The reſult of all here is propounded, a double object of pitty, to the bodies and to the
+ſoules of the (ungodly) poor, a company of poor creatures haſtning to deſtruction, none ſay
+why doſt thou ſo? Corrupt men, and Officers incouraged in their wicked waies by corrupt laws
+(if compared with preſent time) all theſe together, Idle and ungodly poor, with ſons of
+<hi>Belial</hi> by Trade periſhing, ex<g ref="char:EOLhyphen"/>cept the Lord Chriſt by his grace, take pitty upon them.
+When he was upon earth hee wept to ſee a company of poore creatures without a guide;
+<hi>Ieremiah</hi> wiſhed his head a fountaine of tears to weep for the ſins of the people.
+<hi>Iſaiah</hi> bewailed himſelfe, <hi>David</hi> wept becauſe the laws of God were broke,
+his example of governing is a good pattern for Rulers now. <hi>Pſal.</hi> 101.8 <hi>I will early
+deſtroy the wicked of the Land.</hi> He reſolved to ſing a ſong of mercy and judgement, and
+to behave himſelfe wiſely at his enterance. If any bowels of compaſſion with Chriſt to
+poor ſoules, endeavour that of <hi>Iude</hi> to pluck ſome poore ſoules out of the fire, if
+by any means. Imitate God, <hi>Gen.</hi> 18.21. goe down, ſee whether theſe things be ſo; it
+is meant, condiſcend to men of low eſtate, be not high minded. <hi>Rom.</hi> 12.16. Theſe
+petty buſineſſes, accounted by ſome, may bring judgement as formerly they have. Better is
+hoped.</p>
+            <p>Secondly, an object of protection, to reſcue the honeſt labori<g ref="char:EOLhyphen"/>ous man, from the tyranny of
+unreaſonable men, and unſeaſona<g ref="char:EOLhyphen"/>ble lawes. Pardon the plainneſſe of language to thoſe
+in high pla<g ref="char:EOLhyphen"/>ces. <hi>Amos</hi> a man of low breeding, was plaine with the Rulers of
+<hi>Damaſcus</hi> and <hi>Edom;</hi> with the Rulers of <hi>Moab</hi> and <hi>Iſrael,</hi> no
+doubt his meſſage was acceptable to the godly as the former Prophets, who were more elegant,
+and no doubt as teſtimonial, againſt the wicked Rulers. It is true, the poor Author is no
+Clerk, but read<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:118492:5"/>
+ſo much of the language of <hi>Canaan</hi> in a Declaration of late, hath preſumed to bring a
+little Goats haire to the building of this tottering Commonwealth. And ſhall pray that this great
+worke in hand may proſper: too great for men, except the great recon<g ref="char:EOLhyphen"/>ciler of all things in
+heaven and earth, come in and make peace be<g ref="char:EOLhyphen"/>twixt brethren by his ſpirit. The Lord give to
+thoſe it concerns the courage of <hi>Ioſhua,</hi> the Juſtice of <hi>Samuel,</hi> the
+uprightneſſe of <hi>David,</hi> the wiſdom of <hi>Salomon,</hi> the zeal and
+tender-heartednes of <hi>Ioſias,</hi> and ſome meaſure of the love of the Lord Jeſus, who
+laid down his life for his flock; the work is great, the people full of muttering, as in
+<hi>Moſes</hi> time; the Lord Chriſt ſupply by his ſpirit to heap coals of fire on their
+head, by overcoming them with good.</p>
+            <closer>
+               <signed>J. R.</signed>
+               <dateline>
+                  <hi>From my Chamber in</hi> London
+<date>
+                     <hi>this firſt of</hi> Auguſt, 1653.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
